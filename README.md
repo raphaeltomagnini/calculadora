@@ -1,3 +1,5 @@
-# App Calculadora de Gorgetas
+# Tip Calculator App
 
-Uso de Html5, CSS e JavaScript.
+Using HTML5, CSS, and JavaScript technologies.
+
+Access: https://calculadora-de-gorjetas-alpha.vercel.app/
